@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matiasbuet
-- 👀 I’m interested in new tecnologies and experiencies
+- 👀 I’m interested in new technologies and experiences
 
 <!---
 matiasbuet/matiasbuet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
